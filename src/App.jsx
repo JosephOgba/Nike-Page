@@ -17,11 +17,11 @@ const App =() =>(
   Specialoffer
  </section>
  <section className="bg-pale-blue padding">
-  CustomerReviews
+  CustomerReviews section coming soon 
  </section><section className="padding-x sm:py-32 py-16 w-full">
 Suscribe
  </section><section className="padding bg-black padding-x padding-t pb-8">
-Footer
+Footer Goes here 
  </section>
  </main>
 );
