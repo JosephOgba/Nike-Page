@@ -1,4 +1,4 @@
-import React from "react"
+import { Footer, Hero, CustomerReview, Suscribe, SuperQuality, SpecialOffer, PopularProduct,Services }  from './sections/index'
 
 const App =() =>(
  <main className="relative">
